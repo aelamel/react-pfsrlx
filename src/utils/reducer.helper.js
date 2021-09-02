@@ -11,7 +11,7 @@ const isInType = (type = '', types = []) => types.includes(type);
 export const INITIAL_STATE = {
   loading: false,
   error: null,
-  data: null
+  data: []
 };
 
 const listMapper = ({
