@@ -1,0 +1,4 @@
+export const ACTIONS = {
+  FETCH_POSTS: 'FETCH_POSTS',
+  COMMON_API_CALL: 'COMMON_API_CALL'
+};
